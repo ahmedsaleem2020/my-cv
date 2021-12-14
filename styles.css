@@ -1,0 +1,124 @@
+/******************** tag selector *******************/
+body{
+margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+color: #40514e;
+}
+h1{
+  color:#66BFBF;
+  font-size: 562.5%;
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+
+}
+h2{
+  color:#11999E;
+  font-size: 1.5rem;
+  line-height: 2;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+h3{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  line-height: 2;
+}
+a{
+color: #11999E;
+font-family: 'Montserrat', sans-serif;
+margin: 10px 20px;
+text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+/******************** class selector *******************/
+.topp{
+  background-color: #D1E8E4;
+  position: relative;
+  padding-top: 100px ;
+}
+.middle-container{
+margin: 100px 0 ;
+}
+.bottom-container{
+  background-color: #66BFBF;
+padding: 50px 0 20px;
+
+
+  }
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 35px;
+
+}
+.bottom-cloud {
+  position: absolute;
+  left: 220px;
+  bottom: 300px;
+
+}
+.my-im{
+    position:static;
+  background-size:70px;
+  height: 300px;
+  width: 250px;
+  border-radius: 50%;
+}
+.com-im{
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+.com-im2{
+width: 35%;
+border-radius: 50%;
+float: left;
+margin-left: 30px;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: right;
+}
+hr {
+    border-style: dotted none none;
+    height: 0px;
+    width: 7%;
+    border-color: grey;
+    border-width: 8px;
+    margin: 100px auto;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+
+}
+
+.btn {
+  background: #36c1eb;
+  border-radius: 10px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  width: 8%;
+  margin: 40px auto 60px ;
+}
+
+.btn:hover {
+  background: #1d3340;
+  text-decoration: none;
+}
+.btn2 {
+  padding: 10px 20px 10px 20px;
+}
+.copy-r {
+  padding: 10px 20px 10px 20px;
+}
